@@ -1,0 +1,3 @@
+# melite-unity-nodes — no additional Python packages beyond
+# the engine base env. Unity rides the MCP server (operator-owned
+# editor); nothing here imports it.
